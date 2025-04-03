@@ -1,16 +1,4 @@
 # riverpod_mvvm_template
 
-A new Flutter project.
+The MVVM Riverpod Boilerplate serves as a highly modular and robust framework designed to streamline app development in Flutter. With a clear emphasis on clean architecture, this boilerplate seamlessly integrates the Model-View-ViewModel (MVVM) pattern with the power and simplicity of Riverpod for state management. It provides developers with an organized and scalable foundation for building dynamic, user-friendly applications.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
